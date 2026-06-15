@@ -1,0 +1,125 @@
+﻿<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Devil's Night</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #111;
+            color: #f5f5f5;
+            margin: 0;
+            padding: 0;
+            line-height: 1.7;
+        }
+
+
+        .container {
+            max-width: 900px;
+            margin: 40px auto;
+            padding: 30px;
+            background-color: #1c1c1c;
+            border-radius: 10px;
+            box-shadow: 0 0 15px rgba(255, 69, 0, 0.3);
+        }
+
+
+        h1 {
+            text-align: center;
+            color: #ff4500;
+            margin-bottom: 20px;
+        }
+
+
+        p {
+            text-align: justify;
+            margin-bottom: 15px;
+        }
+
+
+        .link {
+            margin-top: 25px;
+            padding: 15px;
+            background-color: #2a2a2a;
+            border-left: 4px solid #ff4500;
+        }
+
+
+        .link a {
+            color: #ffa07a;
+            text-decoration: none;
+        }
+
+
+        .link a:hover {
+            text-decoration: underline;
+        }
+
+
+        footer {
+            text-align: center;
+            margin-top: 30px;
+            color: #999;
+            font-size: 0.9em;
+        }
+    </style>
+</head>
+<body>
+
+
+    <div class="container">
+        <h1>Devil's Night</h1>
+
+
+        <p>
+            Devil's Night, também conhecida como <strong>"Noite do Diabo"</strong>,
+            é uma tradição que acontece na noite de 30 de outubro, véspera do Halloween,
+            principalmente em algumas regiões dos Estados Unidos.
+        </p>
+
+
+        <p>
+            Originalmente, a data era marcada por pequenas brincadeiras e travessuras,
+            como tocar campainhas e esconder objetos. Com o passar do tempo, em alguns
+            lugares, essas ações evoluíram para atos de vandalismo, incluindo pichações
+            e incêndios.
+        </p>
+
+
+        <p>
+            A cidade de Detroit ficou especialmente conhecida por sua relação com a
+            Devil's Night devido ao grande número de incidentes registrados durante
+            as décadas de 1970 e 1980. Como resposta, foram criados programas
+            comunitários para aumentar a vigilância e reduzir os problemas.
+        </p>
+
+
+        <p>
+            Atualmente, a Devil's Night é vista de maneiras diferentes, dependendo da
+            região. Enquanto algumas comunidades mantêm apenas o aspecto festivo e
+            tradicional, outras procuram desencorajar qualquer comportamento que possa
+            causar danos.
+        </p>
+
+
+        <p>
+            A data faz parte do folclore moderno norte-americano e continua sendo
+            associada ao clima misterioso e assustador que antecede o Halloween.
+        </p>
+
+
+        <div class="link">
+            <strong>Link:</strong>
+            <a href="#" target="_blank">Devil's Night</a>
+        </div>
+
+
+        <footer>
+            Página informativa sobre a tradição Devil's Night.
+        </footer>
+    </div>
+
+
+</body>
+</html>
